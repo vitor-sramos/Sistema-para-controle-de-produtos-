@@ -63,7 +63,7 @@ Interface acessível em:
 
 ## 📸 Screenshots
 
-### Tela de principal
+### Tela principal
 
 ![Screenshot](produtos.png)
 
